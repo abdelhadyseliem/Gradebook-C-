@@ -1,0 +1,16 @@
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\obj\Debug\net5.0\gradebook.csprojAssemblyReference.cache
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\obj\Debug\net5.0\gradebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\obj\Debug\net5.0\gradebook.AssemblyInfoInputs.cache
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\obj\Debug\net5.0\gradebook.AssemblyInfo.cs
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\obj\Debug\net5.0\gradebook.csproj.CoreCompileInputs.cache
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\bin\Debug\net5.0\gradebook.exe
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\bin\Debug\net5.0\gradebook.deps.json
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\bin\Debug\net5.0\gradebook.runtimeconfig.json
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\bin\Debug\net5.0\gradebook.runtimeconfig.dev.json
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\bin\Debug\net5.0\gradebook.dll
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\bin\Debug\net5.0\ref\gradebook.dll
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\bin\Debug\net5.0\gradebook.pdb
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\obj\Debug\net5.0\gradebook.dll
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\obj\Debug\net5.0\ref\gradebook.dll
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\obj\Debug\net5.0\gradebook.pdb
+C:\Users\hodho\OneDrive\Desktop\project\src\gradebook\obj\Debug\net5.0\gradebook.genruntimeconfig.cache
